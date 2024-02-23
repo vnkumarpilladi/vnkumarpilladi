@@ -1,7 +1,5 @@
 
-### Hi 👋
-
-Hello! My Name is Venkata Nagendra Kumar Pilladi
+### Hi 👋 Hello! My Name is Venkata Nagendra Kumar Pilladi
 
 - I’m currently working on Embedded Systems
 - I have been working for over 20 years.
