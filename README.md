@@ -11,4 +11,4 @@ Hello! My name is Venkata Nagendra Kumar Pilladi
 
 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?vnkumarpilladi=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vnkumarpilladi)](https://github.com/vnkumarpilladi/github-contribution-stats/)
