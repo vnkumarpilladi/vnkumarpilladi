@@ -10,4 +10,4 @@
 
 
 
-//[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vnkumarpilladi)](https://github.com/vnkumarpilladi/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vnkumarpilladi)](https://github.com/vnkumarpilladi/github-contribution-stats/)
